@@ -11,7 +11,6 @@ import seaborn as sns
 import folium
 import datetime as dt
 
-from win32comext.adsi.adsicon import ADS_UF_SERVER_TRUST_ACCOUNT
 
 # Importing file with cleaned data into dataframe.
 source = "../data/Historical_Wildfires.csv"

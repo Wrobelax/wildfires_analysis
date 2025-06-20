@@ -1,4 +1,4 @@
-**Project status**: In progress - visualisation.
+**Project status**: Completed - closed.
 
 This project is a data analysis of a publicly available data from: 
 https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DV0101EN-SkillsNetwork/Data%20Files/Historical_Wildfires.csv
@@ -20,3 +20,10 @@ _Folder "scripts":_
 
 
 _Folder "outputs":_
+- "fire_area_change.png" : Line plot with change of average estimated area change between years.
+- "fire_area_change_month.png" : Line plot with change of average estimated area change between months.
+- "fire_brightness_regions.png" : Bar chart showing mean estimated fire brightness per region.
+- "fire_brightness_regions_hist.png" : Histogram showing mean estimated fire change between regions.
+- "fire_power.png" : Scatter plot showing mean estimated fire power vs. mean confidence.
+- "fire_vegetation.png" : Pie chart showing percentage for presumed vegetation fires by region.
+- "australia_map.html" : Canada map with marked regions.
